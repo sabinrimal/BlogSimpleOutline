@@ -1,0 +1,2 @@
+# BlogSimpleOutline
+Basic Blog Template
